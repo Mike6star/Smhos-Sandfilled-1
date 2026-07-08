@@ -59,7 +59,7 @@
             filter: brightness(0.7) saturate(1.1);
         }
 
-        .slide.active {
+        .slide-active {
             opacity: 1;
         }
 
