@@ -9,7 +9,7 @@
                     currentSlide = (currentSlide + 1) % slides.length;
                     slides[currentSlide].classList.add('active');
                 }
-                setInterval(showNextSlide, 6000);
+                setInterval(showNextSlide, 4000);
             }
 
             // ─── FIREFLIES GENERATOR SCRIPT ───
